@@ -19,7 +19,7 @@ Camroku.TECH Badges
 | Heroku | `https://camroku.tech/badge/heroku.svg` | ![Heroku](https://camroku.tech/badge/heroku.svg) |
 | HTML5 | `https://camroku.tech/badge/html5.svg` | ![HTML5](https://camroku.tech/badge/html5.svg) |
 | Arduino IDE | `https://camroku.tech/badge/ino-ide.svg` | ![Arduino IDE](https://camroku.tech/badge/ino-ide.svg) |
-| JSON | `https://camroku.tech/badge/json.svg` | ![JSON](https://camroku.tech/badge/json.svg.svg) |
+| JSON | `https://camroku.tech/badge/json.svg` | ![JSON](https://camroku.tech/badge/json.svg) |
 | Linux | `https://camroku.tech/badge/linux.svg` | ![Linux](https://camroku.tech/badge/linux.svg) |
 | Markdown | `https://camroku.tech/badge/md.svg` | ![Markdown](https://camroku.tech/badge/md.svg) |
 | Linux Mint | `https://camroku.tech/badge/mint.svg` | ![Linux Mint](https://camroku.tech/badge/mint.svg) |
