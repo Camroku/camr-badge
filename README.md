@@ -9,7 +9,7 @@ Camroku.TECH Badges
 | Atom | `https://camroku.tech/badge/atom.svg` | ![Atom](https://camroku.tech/badge/atom.svg) |
 | CLion | `https://camroku.tech/badge/clion.svg` | ![CLion](https://camroku.tech/badge/clion.svg) |
 | C++ | `https://camroku.tech/badge/cpp.svg` | ![C++](https://camroku.tech/badge/cpp.svg) |
-| C# | `https://camroku.tech/badge/c.svg` | ![C#](https://camroku.tech/badge/c.svg) |
+| C# | `https://camroku.tech/badge/csharp.svg` | ![C#](https://camroku.tech/badge/csharp.svg) |
 | CSS3 | `https://camroku.tech/badge/css3.svg` | ![CSS3](https://camroku.tech/badge/css3.svg) |
 | Debian | `https://camroku.tech/badge/debian.svg` | ![Debian](https://camroku.tech/badge/debian.svg) |
 | Discord | `https://camroku.tech/badge/discord.svg` | ![Discord](https://camroku.tech/badge/discord.svg) |
