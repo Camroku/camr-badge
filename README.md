@@ -44,6 +44,7 @@ This is the 'Other' badge:
 | Node.JS | `https://camroku.tech/badge/node.svg` | ![Node.JS](https://camroku.tech/badge/node.svg) |
 | Python | `https://camroku.tech/badge/python.svg` | ![Python](https://camroku.tech/badge/python.svg) |
 | Ruby | `https://camroku.tech/badge/ruby.svg` | ![Ruby](https://camroku.tech/badge/ruby.svg) |
+| Shell Script | `https://camroku.tech/badge/sh.svg` | ![Shell Script](https://camroku.tech/badge/sh.svg) |
 
 ### Social Media
 | Name | URL | Badge |
