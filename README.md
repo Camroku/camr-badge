@@ -18,6 +18,7 @@ This is the 'Other' badge:
 | Linux Mint | `https://camroku.tech/badge/mint.svg` | ![Linux Mint](https://camroku.tech/badge/mint.svg) |
 | Ubuntu | `https://camroku.tech/badge/ubuntu.svg` | ![Ubuntu](https://camroku.tech/badge/ubuntu.svg) |
 | Windows | `https://camroku.tech/badge/windows.svg` | ![Windows](https://camroku.tech/badge/windows.svg) |
+| Gentoo | `https://camroku.tech/badge/gentoo.svg` | ![Gentoo](https://camroku.tech/badge/gentoo.svg) |
 
 ### Text Editors/IDEs
 | Name | URL | Badge |
